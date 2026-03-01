@@ -1,0 +1,4 @@
+Name : Ibrar Ahmad
+roll no: FA25-BCS-102
+Dep: Computer science
+learning git is fun 
